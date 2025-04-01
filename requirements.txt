@@ -230,7 +230,7 @@ pipenv==2023.12.1
 pipreqs==0.4.13
 pkginfo==1.9.6
 platformdirs==4.2.0
-playwright==1.41.2
+#playwright==1.41.2
 plotly==5.19.0
 pooch==1.8.2
 #pop @ file:///C:/Users/Lenovo/Downloads/pop-20240203T031601Z-001/dist/pop-19.0.0-py3-none-any.whl#sha256=0ed5079f14604125766895ea7e396ecd6524eca9db1d83875e150736514b3545
