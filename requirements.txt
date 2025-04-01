@@ -212,8 +212,8 @@ opencv-contrib-python==4.10.0.84
 opencv-python==4.8.1.78
 opendatalab==0.0.10
 openmim==0.3.9
-openpyxl==3.1.2
-openxlab==0.1.0
+#openpyxl==3.1.2
+#openxlab==0.1.0
 opt-einsum==3.3.0
 optree==0.14.1
 ordered-set==4.1.0
